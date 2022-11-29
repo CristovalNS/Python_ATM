@@ -13,7 +13,7 @@ Make sure to have installed the plugins listed bellow:
 
 After downloading the files, run the driver file named 'main_driverV2.py'. The program should run as shown bellow:
 
-![Space N = 1000](python_img/program_running.png)
+![Space N = 1000](simple_atm_V2/python_img/program_running.png)
 
 Follow the instructions and enjoy the program!
 
