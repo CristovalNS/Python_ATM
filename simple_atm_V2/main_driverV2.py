@@ -13,7 +13,7 @@ for col1 in file:
     username_password.append(col1['Username'])
     username_password.append(col1['Password'])
 
-# print(username_password) # Uncomment to test
+# print(username_password) # Testing
 
 while True:
     x = Pre_Menu().selected_option()
