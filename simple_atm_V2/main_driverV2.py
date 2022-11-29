@@ -1,5 +1,5 @@
 from pre_menu import Pre_Menu
-from simple_atm_V2.admin_menu import Admin_Menu
+from admin_menu import Admin_Menu
 from login import Begin, Access, Login, CurrentUser, Register
 from customer_menu import Customer_Menu
 import csv
